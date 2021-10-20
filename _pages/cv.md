@@ -39,4 +39,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2020 - present : Leader of the Youth of Chemin Neuf Community
