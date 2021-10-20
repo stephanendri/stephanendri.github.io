@@ -15,7 +15,11 @@ My research interests include Asset Pricing, Risk Management, Climate Finance, B
 Contacts
 ======
 Email:  [stephanendri88@yahoo.com](stephanendri88@yahoo.com)
+
 Economics Department
+
 Lionel-Groulx Building, Office C-6056
+
 3150 Jean-Brillant, Université de Montréal
+
 Montréal, Québec, H3T 1N8, Canada.
