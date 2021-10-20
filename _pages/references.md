@@ -14,7 +14,7 @@ References
 |:--------|:-------:|--------:|
 | Department of Economics   | Department of Economics   | Bendheim Center for Finance   |
 | Université de Montréal   | Université de Montréal   | Princeton University   |
-| rene.garcia@umontreal.ca  | vasia.panousi@umontreal.ca | cell3   |
+| rene.garcia@umontreal.ca  | vasia.panousi@umontreal.ca | calmeida@princeton.edu   |
 | cell4   | cell5   | cell6   |
 |=============================|
 | Foot1   | Foot2   | Foot3   |
