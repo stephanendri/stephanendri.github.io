@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Full CV](http://stephanendri.github.io/files/CV.pdf){: .btn}
+[Full CV](http://stephanendri.github.io/files/CV_Ndri_Academic.pdf){: .btn}
 
 
 
