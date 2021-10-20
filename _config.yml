@@ -243,8 +243,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: false
-      comment: false
+      share: true
+      comment: true
       
 
 # Sass/SCSS
