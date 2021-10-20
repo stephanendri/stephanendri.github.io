@@ -22,6 +22,12 @@ Work experience
 * September 2021 - present : Consultant at the World Bank
 * September 2018 - present : Research Assistant at Laboratory for Macroeconomic Policy (UdeM)
 * June 2015 - July 2016 : Financial risk management at DAXIAL 
+
+Computational skills
+======
+* Advanced data treatment : MATLAB, R, PYTHON, STATA.
+* Office package
+* Others : MS Project, Access
   
 Services and leadership
 ======
