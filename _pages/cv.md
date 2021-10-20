@@ -25,11 +25,11 @@ Work experience
 * June 2015 - July 2016 : Financial risk management at DAXIAL 
 
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
