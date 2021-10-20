@@ -14,7 +14,8 @@ author_profile: true
 {% for post in site.research reversed %}
   {% include archive-single.html %}
 {% endfor %}
----
+
+
 Work in progress
 ======
 Climate Change and Research Inequality: A Text-Based Approach, joint with Firmin Ayivodji
