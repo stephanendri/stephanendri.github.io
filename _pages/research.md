@@ -16,5 +16,10 @@ author_profile: true
 {% endfor %}
 ---
 **Work in progress**
+Climate Change and Research Inequality: A Text-Based Approach, joint with Firmin Ayivodji
+
+Insurance Asset Pricing Model
+
+Hedging Physical and Transition Climate Change Risks 
 
 
