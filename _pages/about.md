@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify "> I'm on the job market 2021/2022 and will be available for virtual interviews at the AEA/AFA, the European Job Market, and the Canadian Economics Employment Exchange annual meetings.
+<div style="text-align: justify "> I'm on the job market 2021/2022 and will be available for virtual interviews at the AEA/AFA, the European Job Market, and the Canadian Economics Employment Exchange annual meetings. </div>
   
-My research interests : Asset Pricing, Risk Management, Climate Finance, Big Data, and Machine Learning.  </div>
+My research interests : Asset Pricing, Risk Management, Climate Finance, Big Data, and Machine Learning.
 
 Contacts
 ======
