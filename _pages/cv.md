@@ -40,3 +40,4 @@ Teaching
 Service and leadership
 ======
 * 2020 - present : Leader of the Youth of Chemin Neuf Community
+* 2013 - present : Member of Messenger of Love
