@@ -12,6 +12,11 @@ redirect_from:
 
 References
 ======
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 
 | René Garcia (chair)  | Vasia Panousi (cochair) | Caio Almeida  |
 |:--------|:-------|:--------|
