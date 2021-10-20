@@ -3,6 +3,9 @@ layout: archive
 title: " "
 permalink: /references/
 author_profile: true
+redirect_from: 
+  - /md/
+  - /markdown.html
 ---
 
 {% include base_path %}
