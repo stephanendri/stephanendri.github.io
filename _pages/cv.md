@@ -11,13 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.Sc. in Statistics and Applied Economics, National School of Statistics and Applied Economics, 2016
 * Ph.D in Economics, University of Montreal, 2021 (expected)
+* M.Sc. in Statistics and Applied Economics, National School of Statistics and Applied Economics, 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* September 2021 - present : Consultant at the World Bank: Research Assistant
 * Fall 2015: Research Assistant
 
   
