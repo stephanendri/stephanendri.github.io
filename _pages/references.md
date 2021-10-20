@@ -15,8 +15,8 @@ References
 
 | René Garcia (chair)  | Vasia Panousi (cochair) | Caio Almeida  |
 |:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
+| Department of Economics    | Department of Economics    | Bendheim Center for Finance   |
+| Université de Montréal   | Université de Montréal   | Princeton University   |
 |-----------------------------|
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
