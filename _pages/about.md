@@ -15,7 +15,7 @@ My research interests : Asset Pricing, Risk Management, Climate Finance, Big Dat
 
 Contacts
 ======
-Email:  [stephanendri88@yahoo.com](stephanendri88@yahoo.com)
+Email:  [stephanendri88@yahoo.com](mailto:stephanendri88@yahoo.com)
 
 Economics Department
 
