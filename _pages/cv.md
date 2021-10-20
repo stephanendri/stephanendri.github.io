@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+[Full CV](http://stephanendri.github.io/files/CV.pdf){: .btn}
+
+
+
 Education
 ======
 * Ph.D in Economics, University of Montreal, 2022 (expected)
