@@ -15,6 +15,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 ---
-Work in progress
+**Work in progress**
 
 
