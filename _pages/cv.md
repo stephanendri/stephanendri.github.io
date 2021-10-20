@@ -12,7 +12,6 @@ redirect_from:
 [Full CV](http://stephanendri.github.io/files/CV_Ndri_Academic.pdf){: .btn}
 
 
-
 Education
 ======
 * Ph.D in Economics, University of Montreal, 2022 (expected)
@@ -25,12 +24,6 @@ Work experience
 * June 2015 - July 2016 : Financial risk management at DAXIAL 
 
 
-<!-- Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
