@@ -181,7 +181,7 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  CV:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -227,23 +227,23 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _CV
   - scope:
       path: ""
-      type: portfolio
+      type: CV
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: false
-      share: false
+  #- scope:
+   #   path: ""
+   #   type: talks
+   # values:
+    #  layout: talk
+     # author_profile: false
+    #  share: false
 
 # Sass/SCSS
 sass:
