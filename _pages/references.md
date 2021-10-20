@@ -7,9 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-
 References
----
+======
 | René Garcia (chair) | Vasia Panousi (co-chair) | Caio Almeida |
 |:--------|:-------:|--------:|
 | Department of Economics   | Department of Economics   | Bendheim Center for Finance   |
@@ -19,5 +18,4 @@ References
 | Montréal, Canada  | Montréal, Canada   | Room 306B,    |
 | +1 514 343 6556  | +1 514 343 6556   | New Jersey, USA    |
 | [Website](https://myrenegarcia.com)  | [Website](https://sites.google.com/site/panousi/)   |[Website](http://www.fgv.br/professor/epge/calmeida/)    |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
+
