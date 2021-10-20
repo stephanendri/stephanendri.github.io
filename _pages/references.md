@@ -13,7 +13,7 @@ redirect_from:
 References
 ======
 
-| René Garcia (chair)  | Header2 | Header3 |
+| René Garcia (chair)  | Vasia Panousi (cochair) | Caio Almeida  |
 |:--------|:-------:|--------:|
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
