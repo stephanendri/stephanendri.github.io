@@ -10,7 +10,7 @@ author_profile: true
 References
 ======
 | René Garcia (chair) | Vasia Panousi (co-chair) | Caio Almeida |
-|:--------|:-------:|--------:|
+|:--------|:-------|:--------|
 | Department of Economics   | Department of Economics   | Bendheim Center for Finance   |
 | Université de Montréal   | Université de Montréal   | Princeton University   |
 | rene.garcia@umontreal.ca  | vasia.panousi@umontreal.ca | calmeida@princeton.edu   |
