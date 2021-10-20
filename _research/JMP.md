@@ -3,7 +3,7 @@ title: "JMP - Long run carbon consumption risks and asset prices"
 collection: research
 permalink: /research/JMP
 excerpt: 'This paper analyzes'
-date: 2021-10-01
+<!-- date: 2021-10-01-->
 venue: 'Journal 1'
 paperurl: 'http://stephanendri.github.io/files/Slides_LRCCR.pdf'
 citation: 'Stéphane Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
