@@ -13,4 +13,4 @@ This paper analyzes how carbon risk can affect the stochastic discount factor (S
 
 [Download paper here](http://stephanendri.github.io/files/JMP.pdf)
 
-Recommended citation: Stéphane N'Dri (2021). "Long run carbon consumption risks and asset prices"
+Recommended citation: Stéphane N'Dri (2021). "Long run carbon consumption risks and asset prices" Working paper
