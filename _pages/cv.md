@@ -17,7 +17,7 @@ Education
 * Ph.D in Economics, University of Montreal, 2022 (expected)
 * M.Sc. in Statistics and Applied Economics, National School of Statistics and Applied Economics, 2016
 
-Work experience
+Work experiences
 ======
 * September 2021 - present : Consultant at the World Bank
 * September 2018 - present : Research Assistant at Laboratory for Macroeconomic Policy (UdeM)
