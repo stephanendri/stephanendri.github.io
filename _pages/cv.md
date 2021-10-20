@@ -21,7 +21,8 @@ Education
 Work experience
 ======
 * September 2021 - present : Consultant at the World Bank: Research Assistant
-* Fall 2015: Research Assistant
+* September 2018 - present : Research Assistant at Laboratory for Macroeconomic Policy (UdeM)
+* June 2015 - July 2016 : Financial risk management at DAXIAL 
 
   
 Skills
