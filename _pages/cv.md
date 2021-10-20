@@ -22,15 +22,8 @@ Work experience
 * September 2021 - present : Consultant at the World Bank
 * September 2018 - present : Research Assistant at Laboratory for Macroeconomic Policy (UdeM)
 * June 2015 - July 2016 : Financial risk management at DAXIAL 
-
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
+Services and leadership
 ======
 * 2020 - present : Leader of the Youth of Chemin Neuf Community
 * 2013 - present : Member of Messenger of Love
