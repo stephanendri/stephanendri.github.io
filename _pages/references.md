@@ -8,9 +8,9 @@ author_profile: true
 {% include base_path %}
 
 
-# References
+References
 ---
-| Header1 | Header2 | Header3 |
+| René Garcia (chair) | Vasia Panousi (co-chair) | Caio Almeida |
 |:--------|:-------:|--------:|
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
