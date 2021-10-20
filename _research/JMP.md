@@ -14,4 +14,4 @@ citation: 'Stéphane Name, You. (2009). &quot;Long run carbon consumption risks 
 
 <!--[Paper](http://stephanendri.github.io/files/JMP.pdf) -->
 
-Recommended citation: Stéphane N'Dri (2021). "Long run carbon consumption risks and asset prices"  <i>Working paper </i>.
+<!--Recommended citation: Stéphane N'Dri (2021). "Long run carbon consumption risks and asset prices"  <i>Working paper </i>.-->
