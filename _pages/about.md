@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Stéphane N'Dri"
+title: " "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
