@@ -22,6 +22,7 @@ Model
 
 Findings
 ======
+![MarineGEO circle logo](http://stephanendri.github.io/files/finding1.png "MarineGEO logo")
 
 <!--[Paper](http://stephanendri.github.io/files/JMP.pdf) -->
 
