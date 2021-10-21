@@ -18,6 +18,7 @@ Data
 
 Model
 ======
+![MarineGEO circle logo](http://stephanendri.github.io/files/model1.png "MarineGEO logo")
 
 Findings
 ======
