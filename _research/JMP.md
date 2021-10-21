@@ -12,6 +12,16 @@ citation: 'Stéphane, N Dri. (2021). &quot;Long run carbon consumption risks and
 
 [Slides](http://stephanendri.github.io/files/Slides_LRCCR.pdf)
 
+Data
+======
+
+
+Model
+======
+
+Findings
+======
+
 <!--[Paper](http://stephanendri.github.io/files/JMP.pdf) -->
 
 <!--Recommended citation: Stéphane N'Dri (2021). "Long run carbon consumption risks and asset prices"  <i>Working paper </i>.-->
