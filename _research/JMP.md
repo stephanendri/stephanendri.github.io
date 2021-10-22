@@ -27,10 +27,10 @@ Findings
 ## Model
 **Long-run carbon consumption risks model**
 
-Consumption growth decomposition :
+ * Consumption growth decomposition :
 $$\Delta c_{t+1} = \Delta cc_{t+1} - \Delta\alpha_{cc, t+1}$$ 
 
-Carbon consumption growth dynamic :
+ * Carbon consumption growth dynamic :
 <font color=violet>$$\Delta cc_{t+1} = \nu_{cc} + x_t + \sigma_t \epsilon_{cc, t+1}$$</font> 
 
 Conditional expectation of carbon consumption growth dynamic :
