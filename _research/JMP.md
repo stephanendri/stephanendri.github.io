@@ -26,6 +26,7 @@ Findings
 
 ## Model
 **Long-run carbon consumption risks model**
+
 $$\Delta c_{t+1} = \Delta cc_{t+1} - \Delta\alpha_{cc, t+1}$$ 
 <font color=violet>$$\Delta cc_{t+1} = \nu_{cc} + x_t + \sigma_t \epsilon_{cc, t+1}$$</font> 
 $$x_{t+1} = \rho_x x_t + \psi_x \sigma_t \epsilon_{x, t+1}$$ 
@@ -38,12 +39,12 @@ $$\Delta d_{i, t+1} = \nu_i + \phi_i x_t + \phi_{\alpha, i} \Delta\alpha_{cc, t}
  
  
 ## Findings
-- LRCCR model replicates the equity premium, volatility and risk-free rate much better than LRR :
- - By decomposing consumption growth into two components ;
- - Long-run risks in both expected carbon consumption and volatility.
-- Our LRCCR model increases the capacity to detect the long-run risk during the period 1956-2018. But during the period 1930 - 1955, it was less dectectable :
- - Investors can profit from it using climate change news ;
-- The long-run risk variable <font color="blue">$x_t$</font> and its confditional variance <font color="blue">$\sigma _t ^2$</font> help improving the predictability of the equity premiuù and the consumption growth.
+* LRCCR model replicates the equity premium, volatility and risk-free rate much better than LRR :
+  * By decomposing consumption growth into two components ;
+  * Long-run risks in both expected carbon consumption and volatility.
+* Our LRCCR model increases the capacity to detect the long-run risk during the period 1956-2018. But during the period 1930 - 1955, it was less dectectable :
+  * Investors can profit from it using climate change news ;
+* The long-run risk variable <font color="blue">$x_t$</font> and its confditional variance <font color="blue">$\sigma _t ^2$</font> help improving the predictability of the equity premiuù and the consumption growth.
 
 <!--[Paper](http://stephanendri.github.io/files/JMP.pdf) -->
 
