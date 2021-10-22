@@ -27,7 +27,7 @@ citation: 'Stéphane, N Dri. (2021). &quot;Long run carbon consumption risks and
   * Require a new LRR model by considering emission/carbon consumption.
   * However, emission does have long-run risk and is more detectable :
   * Curbing carbon emission at the pre-industrial level ;
-  * Emission $\rightarrow$ Damages $\arrow$ affects aggregate consumption.
+  * Emission $\rightarrow$ Damages $\rightarrow$ affects aggregate consumption.
 
 
 ## Data
