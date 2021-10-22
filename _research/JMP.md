@@ -12,17 +12,16 @@ citation: 'Stéphane, N Dri. (2021). &quot;Long run carbon consumption risks and
 
 [Slides](http://stephanendri.github.io/files/Slides_LRCCR.pdf)
 
-Data
-======
+##Data
 ![MarineGEO circle logo](http://stephanendri.github.io/files/pic22.png "MarineGEO logo")
 
-Model
+<!--Model
 ======
 ![MarineGEO circle logo](http://stephanendri.github.io/files/model1.png "MarineGEO logo")
 
 Findings
 ======
-![MarineGEO circle logo](http://stephanendri.github.io/files/finding1.png "MarineGEO logo")
+![MarineGEO circle logo](http://stephanendri.github.io/files/finding1.png "MarineGEO logo")-->
 
 
 ## Model
