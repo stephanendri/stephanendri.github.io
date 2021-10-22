@@ -12,7 +12,7 @@ citation: 'Stéphane, N Dri. (2021). &quot;Long run carbon consumption risks and
 
 [Slides](http://stephanendri.github.io/files/Slides_LRCCR.pdf)
 
-##Data
+## Data
 ![MarineGEO circle logo](http://stephanendri.github.io/files/pic22.png "MarineGEO logo")
 
 <!--Model
@@ -33,7 +33,6 @@ $$\sigma_{t+1}^2 = (1 - \nu)\sigma^2 + \nu \sigma_t^2 + \sigma_w \epsilon_{\sigm
 <font color = green> $\Delta\alpha_{cc, t+1} = \nu_\alpha (1 - \rho_\alpha) + \rho_\alpha \Delta\alpha_{cc, t} + \sigma_\alpha \epsilon_{\alpha, t+1} + \pi \sigma_t \epsilon_{cc, t+1}$</font>
 <p
 align="center"> Finally, the dividend of any asset i growth rate is as follow : </p>
- 
 $$\Delta d_{i, t+1} = \nu_i + \phi_i x_t + \phi_{\alpha, i} \Delta\alpha_{cc, t} + \psi_i \sigma_t \epsilon_{i, t+1}$$$\epsilon_{x, t+1}, \epsilon_{cc, t+1}, \epsilon_{\alpha, t+1}, \epsilon_{i, t+1}$ and $\epsilon_{\sigma, t+1}$ are i.i.d.
  
  
