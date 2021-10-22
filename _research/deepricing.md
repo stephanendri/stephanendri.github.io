@@ -16,4 +16,4 @@ citation: <!--'Stéphane, N Dri. (2019). &quot;Anomaly return predictability usi
 
 <!--[Paper](http://stephanendri.github.io/files/JMP.pdf) -->
 
-<!--Recommended citation: Stéphane N'Dri (2021). "Anomaly return predictability using deep learning asset pricing"  <i>Working paper </i>.-->
+Recommended citation: Stéphane N'Dri (2019). "Anomaly return predictability using deep learning asset pricing"  <i>Working paper </i>.
