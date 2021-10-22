@@ -27,7 +27,10 @@ Findings
 ## Model
 **Long-run carbon consumption risks model**
 
+Consumption growth decomposition :
 $$\Delta c_{t+1} = \Delta cc_{t+1} - \Delta\alpha_{cc, t+1}$$ 
+
+Carbon consumption growth dynamics :
 <font color=violet>$$\Delta cc_{t+1} = \nu_{cc} + x_t + \sigma_t \epsilon_{cc, t+1}$$</font> 
 $$x_{t+1} = \rho_x x_t + \psi_x \sigma_t \epsilon_{x, t+1}$$ 
 $$\sigma_{t+1}^2 = (1 - \nu)\sigma^2 + \nu \sigma_t^2 + \sigma_w \epsilon_{\sigma, t+1}$$
