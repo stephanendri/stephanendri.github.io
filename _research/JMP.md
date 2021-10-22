@@ -40,7 +40,7 @@ $$x_{t+1} = \rho_x x_t + \psi_x \sigma_t \epsilon_{x, t+1}$$
 $$\sigma_{t+1}^2 = (1 - \nu)\sigma^2 + \nu \sigma_t^2 + \sigma_w \epsilon_{\sigma, t+1}$$
 
  * Share of carbon consumption out of total consumption growth dynamic :
-<font color = green> $\Delta\alpha_{cc, t+1} = \nu_\alpha (1 - \rho_\alpha) + \rho_\alpha \Delta\alpha_{cc, t} + \sigma_\alpha \epsilon_{\alpha, t+1} + \pi \sigma_t \epsilon_{cc, t+1}$</font>
+<font color = green> $$\Delta\alpha_{cc, t+1} = \nu_\alpha (1 - \rho_\alpha) + \rho_\alpha \Delta\alpha_{cc, t} + \sigma_\alpha \epsilon_{\alpha, t+1} + \pi \sigma_t \epsilon_{cc, t+1}$$</font>
 
  * Dividend of any asset i growth dynamic :
 $$\Delta d_{i, t+1} = \nu_i + \phi_i x_t + \phi_{\alpha, i} \Delta\alpha_{cc, t} + \psi_i \sigma_t \epsilon_{i, t+1}$$ 
