@@ -31,7 +31,7 @@ Findings
 $$\Delta c_{t+1} = \Delta cc_{t+1} - \Delta\alpha_{cc, t+1}$$ 
 
  * Carbon consumption growth dynamic :
-<font color=violet>$$\Delta cc_{t+1} = \nu_{cc} + x_t + \sigma_t \epsilon_{cc, t+1}$$</font> 
+<font color=black>$$\Delta cc_{t+1} = \nu_{cc} + x_t + \sigma_t \epsilon_{cc, t+1}$$</font> 
 
  * Conditional expectation of carbon consumption growth dynamic :
 $$x_{t+1} = \rho_x x_t + \psi_x \sigma_t \epsilon_{x, t+1}$$ 
