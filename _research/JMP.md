@@ -71,7 +71,7 @@ Where $\epsilon_{x, t+1}, \epsilon_{cc, t+1}, \epsilon_{\alpha, t+1}, \epsilon_{
 * LRCCR model replicates the equity premium, volatility and risk-free rate much better than LRR :
   * By decomposing consumption growth into two components ;
   * Long-run risks in both expected carbon consumption and volatility.
-* Our LRCCR model increases the capacity to detect the long-run risk during the period 1956-2018. But during the period 1930 - 1955, it was less dectectable :
+* My LRCCR model increases the capacity to detect the long-run risk during the period 1956-2018. But during the period 1930 - 1955, it was less dectectable :
   * Investors can profit from it using climate change news ;
 * The long-run risk variable <font color="blue">$x_t$</font> and its conditional variance <font color="blue">$\sigma _t ^2$</font> help improving the predictability of the equity premium and the consumption growth.
 
