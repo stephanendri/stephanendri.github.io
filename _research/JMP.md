@@ -17,7 +17,7 @@ citation: 'Stéphane, N Dri. (2021). &quot;Long run carbon consumption risks and
 * FIRST
   * Environnemental issues
   * Goods and services consumption pollutes the environnement ;
-  * Production vs. consumption-based CO2 emissions (GCP). Fact
+  * Production vs. consumption-based CO2 emissions (GCP). [Fact](http://stephanendri.github.io/files/cons_prod.png)
   * Despite that, most papers and climate policies focus on the production side.
 
 * SECOND
