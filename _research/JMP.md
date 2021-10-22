@@ -12,6 +12,24 @@ citation: 'Stéphane, N Dri. (2021). &quot;Long run carbon consumption risks and
 
 [Slides](http://stephanendri.github.io/files/Slides_LRCCR.pdf)
 
+## Motivation
+
+* FIRST
+  * Environnemental issues
+  * Goods and services consumption pollutes the environnement ;
+  * Production vs. consumption-based CO2 emissions (GCP). Fact
+  * Despite that, most papers and climate policies focus on the production side.
+
+* SECOND
+  * Climate change is a long horizon phenomenon ;
+  * Need a long-run risk model to assess it ;
+  * Yet, the effect of the canonical long-run risks on the assets depends on investors detecting it ;
+  * Require a new LRR model by considering emission/carbon consumption.
+  * However, emission does have long-run risk and is more detectable :
+  * Curbing carbon emission at the pre-industrial level ;
+  * Emission $\arrow$ Damages $\arrow$ affects aggregate consumption.
+
+
 ## Data
 ![MarineGEO circle logo](http://stephanendri.github.io/files/pic22.png "MarineGEO logo")
 
