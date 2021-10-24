@@ -56,10 +56,8 @@ $\hat \lambda=arg \min_{\lambda}( \mu -\Sigma \lambda)'\Sigma^{-1}( \mu -\Sigma 
  
  
 ## Findings
-<div style="text-align: justify ">
 * The hybrid model requires less risk factors to achieve the highest out-of-sample performance compared to a model using only linear factors or a model projected into the raw characteristic returns. 
 * Weight shifting on some anomalies. The mimicking portfolios (MPs) and the linear factors disagree on the anomalies that are marginal in terms of weights
 * I believe that the nonlinear principal components have good prediction power. 
 * Thus, they should be taken into account for the development of future factor model.
-</div> 
 
