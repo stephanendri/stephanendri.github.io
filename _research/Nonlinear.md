@@ -42,17 +42,22 @@ using linear counterpart.
 * Let $\Sigma=Cov(F)$ be a k-by-k variance-covariance matrix of the factors;
 * Let $\mu=\mathbb{E}(F)$ be a k-by-1 vector of expected factor returns;
 * $SDF_t=1-\lambda'(F_t-\mathbb{E}F_t)$
+* I estimate two models : a purely linear model and an hybrid model;
+* For each model :
 * I impose two kind of penalties to estimate the SDF coefficients :
   * L2 pen :
 $\hat \lambda=arg \min_{\lambda}( \mu -\Sigma \lambda)'\Sigma^{-1}( \mu -\Sigma \lambda)+\gamma \lambda'\lambda$
   * L1L2pen :
-$\hat \lambda&=arg \min_{\lambda}( \mu -\Sigma \lambda)'\Sigma^{-1}( \mu -\Sigma \lambda)+\gamma_1 \sum_{i=1}^{k} |\lambda_i |+\gamma_2 \lambda'\lambda$
+$\hat \lambda&=arg \min_{\lambda}( \mu -\Sigma \lambda)'\Sigma^{-1}( \mu -\Sigma \lambda)+\gamma_2\lambda'\lambda$
 * Estimate the parameter $\hat \lambda$ via Ridge or Elastic net using LAR-EN;
 * Choose optimally the tuning parameters $\gamma$ or ( $\gamma_1$ and $\gamma_2$) using out-of-sample $R^2$.
 
-
- 
+<!--\gamma_1 \sum_{i=1}^{k} |\lambda_i |-->
  
  
 ## Findings
+* The hybrid model requires less risk factors to achieve the highest out-of-sample performance %compared to a model using only linear factors or a model projected into the raw characteristic returns. 
+* Weight shifting on some anomalies. The mimicking portfolios (MPs) and the linear factors disagree on the anomalies that are marginal in terms of weights
+* I believe that the nonlinear principal components have good prediction power. 
+* Thus, they should be taken into account for the development of future factor model.
 
