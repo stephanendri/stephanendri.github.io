@@ -18,7 +18,7 @@ citation: 'Stéphane, N Dri. (2021). &quot;Nonlinear asset pricing.&quot; <i>Wor
 
 ## Motivation
 
-* In modern finance, the price of any asset is obtained by the expected discounted payoffs :$$p_t^{i}=E_t(SDF_{t+1}CF_{t+1}^{i})$$
+* In modern finance, the price of any asset is obtained by the expected discounted payoffs : $$p_t^{i}=E_t(SDF_{t+1}CF_{t+1}^{i})$$
   * An estimation error in the stochastic discount factor (SDF) will be reflected in the price;
   * Well assess the SDF is important to reduce the pricing error.
 * In this paper, I use the nonlinear principal components (PCs) as factors to estimate the SDF as opposed to the linear PCs as it is usually done. (See Kozak et al. (2020))
