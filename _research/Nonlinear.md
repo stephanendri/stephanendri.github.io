@@ -48,11 +48,11 @@ using linear counterpart.
   * L2 pen :
 $\hat \lambda=arg \min_{\lambda}( \mu -\Sigma \lambda)'\Sigma^{-1}( \mu -\Sigma \lambda)+\gamma \lambda'\lambda$
   * L1L2pen :
-$\hat \lambda&=arg \min_{\lambda}( \mu -\Sigma \lambda)'\Sigma^{-1}( \mu -\Sigma \lambda)+\gamma_2\lambda'\lambda$
+$\hat \lambda=arg \min_{\lambda}( \mu -\Sigma \lambda)'\Sigma^{-1}( \mu -\Sigma \lambda)+\gamma_1 \sum_{i=1}^{k} |\lambda_i |+\gamma_2\lambda'\lambda$
 * Estimate the parameter $\hat \lambda$ via Ridge or Elastic net using LAR-EN;
 * Choose optimally the tuning parameters $\gamma$ or ( $\gamma_1$ and $\gamma_2$) using out-of-sample $R^2$.
 
-<!--\gamma_1 \sum_{i=1}^{k} |\lambda_i |-->
+<!--\gamma_1 \sum_{i=1}^{k} \mid \lambda_i \mid. or \gamma_1 \sum_{i=1}^{k} \lvert \lambda_i \rvert--> 
  
  
 ## Findings
