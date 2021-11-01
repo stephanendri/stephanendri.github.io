@@ -18,7 +18,7 @@ td, th {
 }
 </style>
 
-| René Garcia (chair)  | Vasia Panousi (cochair) | Caio Almeida  |
+| René Garcia (chair)  | Vasia Panousi  | Caio Almeida  |
 |:--------|:-------|:--------|
 | Department of Economics    | Department of Economics    | Bendheim Center for Finance   |
 | Université de Montréal   | Université de Montréal   | Princeton University   |
