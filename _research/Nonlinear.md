@@ -21,15 +21,15 @@ citation: 'Caio Almeida, René Garcia, Stéphane N Dri. (2021). &quot;Nonlinear 
 * In modern finance, the price of any asset is obtained by the expected discounted payoffs : $$p_t^{i}=E_t(SDF_{t+1}CF_{t+1}^{i})$$
   * An estimation error in the stochastic discount factor (SDF) will be reflected in the price;
   * Well assess the SDF is important to reduce the pricing error.
-* In this paper, I use the nonlinear principal components (PCs) as factors to estimate the SDF as opposed to the linear PCs as it is usually done. (See Kozak et al. (2020))
+* In this paper, we use the nonlinear principal components (PCs) as factors to estimate the SDF as opposed to the linear PCs as it is usually done. (See Kozak et al. (2020))
   * Account for the nonlinearities in the data.
 * Advantages of using nonlinear factors :
   * Factors are truly independent as opposed to linear PCs which
 are merely uncorrelated. 
-    * As a consequence, I capture truly different risk measures.
+    * As a consequence, we capture truly different risk measures.
   * Need less factors when using nonlinear PCs than when
 using linear counterpart. 
-    * As a consequence, I have a parsimonious model.
+    * As a consequence, we have a parsimonious model.
   * The increasing number of anomalies is not a problem anymore.
 
 ## Methodology
@@ -42,9 +42,9 @@ using linear counterpart.
 * Let $\Sigma=Cov(F)$ be a k-by-k variance-covariance matrix of the factors;
 * Let $\mu=\mathbb{E}(F)$ be a k-by-1 vector of expected factor returns;
 * $SDF_t=1-\lambda'(F_t-\mathbb{E}F_t)$
-* I estimate two models : a purely linear model and an hybrid model;
+* We estimate two models : a purely linear model and an hybrid model;
 * For each model :
-* I impose two kind of penalties to estimate the SDF coefficients :
+* We impose two kind of penalties to estimate the SDF coefficients :
   * L2 pen :
 $\hat \lambda=arg \min_{\lambda}( \mu -\Sigma \lambda)'\Sigma^{-1}( \mu -\Sigma \lambda)+\gamma \lambda'\lambda$
   * L1L2pen :
@@ -58,6 +58,6 @@ $\hat \lambda=arg \min_{\lambda}( \mu -\Sigma \lambda)'\Sigma^{-1}( \mu -\Sigma 
 ## Findings
 * The hybrid model requires less risk factors to achieve the highest out-of-sample performance compared to a model using only linear factors or a model projected into the raw characteristic returns. 
 * Weight shifting on some anomalies. The mimicking portfolios (MPs) and the linear factors disagree on the anomalies that are marginal in terms of weights
-* I believe that the nonlinear principal components have good prediction power. 
+* We believe that the nonlinear principal components have good prediction power. 
 * Thus, they should be taken into account for the development of future factor model.
 
