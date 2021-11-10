@@ -2,7 +2,7 @@
 title: "JMP - Long run carbon consumption risks and asset prices"
 collection: research
 permalink: /research/JMP
-excerpt: '<div style="text-align: justify "> This paper analyzes how carbon risks affect the stochastic discount factor (SDF). The consumption-based carbon risk measure is based on information on aggregate consumption and carbon footprint for each good and service. The consumption growth is decomposed into two components- the growth rate of carbon consumption component and the growth rate of the share of carbon consumption out of total consumption. A long-run risks model is developed where the SDF is affected by the green and carbon shocks through the consumption. This paper argues that the long-run risk in the consumption growth comes mainly from the carbon consumption growth due to policies and actions to curb the emissions such as Paris Agreement and COP26. The presence of carbon consumption growth  in the model helps detect the long run risk in consumption. The model explains the cross section of industry level returns based on their exposure to the two risk factors - the carbon consumption growth risk and the share of carbon consumption out of total consumption growth risk. This disentangling could lead to identify industries or firms which pollute the most and construct an investment strategy that minimize/maximize a long term environmental criteria. </div>'
+excerpt: '<div style="text-align: justify "> This paper analyzes how carbon risks affect the stochastic discount factor (SDF). The consumption-based carbon risk measure is based on information on aggregate consumption and carbon footprint for each good and service. The consumption growth is decomposed into two components- the growth rate of carbon consumption component and the growth rate of the share of carbon consumption out of total consumption. A long-run risks model is developed where the SDF is affected by the green and carbon shocks through the consumption. This paper argues that the long-run risk in the consumption growth comes mainly from the carbon consumption growth due to policies and actions to curb carbon emissions such as Paris Agreement and COP26. The presence of carbon consumption growth  in the model helps detect the long run risk in consumption. The model explains the cross section of industry level returns based on their exposure to the two risk factors - the carbon consumption growth risk and the share of carbon consumption out of total consumption growth risk. This disentangling could lead to identify industries or firms which pollute the most and construct an investment strategy that minimize/maximize a long term environmental criteria. </div>'
 date: 2021-10-01
 venue: 'Working paper'
 paperurl: <!--'[Slides](http://stephanendri.github.io/files/Slides_LRCCR.pdf)'-->
@@ -25,9 +25,9 @@ citation: 'Stéphane, N Dri. (2021). &quot;Long run carbon consumption risks and
   * Climate change is a long horizon phenomenon ;
   * Need a long-run risk model to assess it ;
   * Yet, the effect of the canonical long-run risks on the assets depends on investors detecting it ;
-  * Require a new LRR model by considering emission/carbon consumption.
+  * Require a new LRR model by considering carbon emissions consumption.
   * However, emission does have long-run risk and is more detectable :
-  * Curbing carbon emission at the pre-industrial level ;
+  * Curbing carbon emissions at the pre-industrial level ;
   * Emission $\rightarrow$ Damages $\rightarrow$ affects aggregate consumption.
 
 
