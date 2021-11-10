@@ -15,7 +15,7 @@ redirect_from:
 
 Contacts
 ======
-Email:  [stephanendri88@yahoo.com](mailto:stephanendri88@yahoo.com)
+Email:  [stephanendri88@yahoo.com](mailto:kouadio.stephane.ndri@umontreal.ca)
 
 Economics Department
 
