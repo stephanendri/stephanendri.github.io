@@ -28,5 +28,5 @@ td, th {
 | Montréal, Canada  | Montréal, Canada   | Room 306B,    |
 | +1 514 343 6111  | +1 514 343 6556   | New Jersey, USA    |
 |=============================|
-| [Website](https://myrenegarcia.com)    | [Website](https://sites.google.com/site/panousi/)   | [Website](http://www.fgv.br/professor/epge/calmeida/)    |
+| [Website](https://myrenegarcia.com)    | [Website](https://sites.google.com/site/panousi/)   | [Website](https://sites.google.com/view/caio-almeida/)    |
 
