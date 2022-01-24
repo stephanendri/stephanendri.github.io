@@ -11,8 +11,9 @@ citation: 'Caio Almeida, René Garcia, Stéphane N Dri. (2021). &quot;Asset Pric
 <!-- <div style="text-align: justify "> This paper shows how truly independent nonlinear factors improve the stochastic discount factor estimation. The main purpose of the nonlinear factors is to serve as factors to predict future returns out-of-sample. We use the Fama-French 25 ME/BM- sorted portfolios and fifty anomaly portfolios adding interaction terms built using individual stock characteristics to test the effectiveness of the nonlinear factors. Then, we estimate the SDF using raw characteristic returns, linear principal component, and a nonlinear principal component. We found that the SDF estimated using a mixture of nonlinear and linear factors outperform the one using solely linear factors or raw characteristic returns in terms of OOS R^2 performance. More importantly, the hybrid model -using both nonlinear and linear principal components- requires less risk factors to achieve the highest out-of-sample performance compared to a model using only linear factors.</div> -->
 
 [Slides](http://stephanendri.github.io/files/NLPC_paper.pdf){: .btn}
+[Paper](http://stephanendri.github.io/files/AlmeidaGarciaNdriDecember2021.pdf){: .btn}
 
-<!--[Paper](http://stephanendri.github.io/files/JMP.pdf) -->
+<!--[Paper](http://stephanendri.github.io/files/AlmeidaGarciaNdriDecember2021.pdf) -->
 
 <!--Recommended citation: Stéphane N'Dri (2021). "Long run carbon consumption risks and asset prices"  <i>Working paper </i>.-->
 
