@@ -1,6 +1,3 @@
-Publications
-=====
-
 ---
 layout: archive
 title: "Working papers"
@@ -18,6 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+
+Publications
+=====
+Determinants of Banks Profitability: Empirical Evidence from Ghana’s Commercial Banking Industry (2021), (with Abdul-Hamid Ahmed), International Journal of Economics and Financial Research, Vol. 7, Issue. 4, pp: 175-189.
+
 Work in progress
 ======
 Climate Change and Research Inequality: A Text-Based Approach, joint with Firmin Ayivodji
@@ -25,5 +27,3 @@ Climate Change and Research Inequality: A Text-Based Approach, joint with Firmin
 Insurance Asset Pricing Model
 
 Hedging Physical and Transition Climate Change Risks 
-
-
