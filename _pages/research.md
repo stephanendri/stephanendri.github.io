@@ -1,3 +1,6 @@
+Publications
+=====
+
 ---
 layout: archive
 title: "Working papers"
