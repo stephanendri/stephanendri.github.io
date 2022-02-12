@@ -36,16 +36,6 @@ citation: 'Caio Almeida, René Garcia, Stéphane N Dri. (2021). &quot;Asset Pric
   * In an asset pricing involving the identification of an SDF that prices the CS of stocks.
 
 
-## Findings
-
-* For different fixed cross-sections of returns, the nonlinear SDF consistently outperforms the linear specification;
- * For the FF25P: 65% versus 49% 
- * For the 50 anomalies:  55% versus 22% 
-
-* Nonlinear SDF requires less factors. 
- * For the 50 anomalies:  5 factors versus 15-20 factors
-
-
 ## Methodology
 
 * Let $ r_{t}=( r_{1,t},..., r_{N,t})'$ be the vector of excess returns of N portfolios, t=1,...,T
@@ -68,4 +58,11 @@ $\hat \lambda=arg \min_{\lambda}( \mu -\Sigma \lambda)'\Sigma^{-1}( \mu -\Sigma 
 
 <!--\gamma_1 \sum_{i=1}^{k} \mid \lambda_i \mid. or \gamma_1 \sum_{i=1}^{k} \lvert \lambda_i \rvert--> 
  
+## Findings
 
+* For different fixed cross-sections of returns, the nonlinear SDF consistently outperforms the linear specification;
+ * For the FF25P: 65% versus 49% 
+ * For the 50 anomalies:  55% versus 22% 
+
+* Nonlinear SDF requires less factors. 
+ * For the 50 anomalies:  5 factors versus 15-20 factors
