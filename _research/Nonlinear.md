@@ -18,19 +18,33 @@ citation: 'Caio Almeida, René Garcia, Stéphane N Dri. (2021). &quot;Asset Pric
 
 ## Motivation
 
-* In modern finance, the price of any asset is obtained by the expected discounted payoffs : $$p_t^{i}=E_t(SDF_{t+1}CF_{t+1}^{i})$$
-  * An estimation error in the stochastic discount factor (SDF) will be reflected in the price;
-  * Well assess the SDF is important to reduce the pricing error.
-* In this paper, we use the nonlinear principal components (PCs) as factors to estimate the SDF as opposed to the linear PCs as it is usually done. (See Kozak et al. (2020))
-  * Account for the nonlinearities in the data.
-* Advantages of using nonlinear factors :
-  * Factors are truly independent as opposed to linear PCs which
-are merely uncorrelated. 
-    * As a consequence, we capture truly different risk measures.
-  * Need less factors when using nonlinear PCs than when
-using linear counterpart. 
-    * As a consequence, we have a parsimonious model.
-  * The increasing number of anomalies is not a problem anymore.
+* Look for a parsimonious stochastic discount factor (SDF);
+* Increasing number of factors explaining the cross-section (CS) (\color{blue}Factor zoo.\color{black})
+* Kozak et al. (2020) show the importance of rotating the SDF into a transformed space.
+* Prior literature: Rotate the SDF into the space of linear principal components (PCs);
+* This paper: Rotate the SDF into the space of nonlinear principal components;
+
+
+## This paper
+
+* How effective truly independent nonlinear factors are in pricing assets?
+
+
+## Contribution
+
+* First paper to empirically test the effectiveness truly independent nonlinear factors
+  * In an asset pricing involving the identification of an SDF that prices the CS of stocks.
+
+
+## Findings
+
+* For different fixed cross-sections of returns, the nonlinear SDF consistently outperforms the linear specification;
+ * For the FF25P: 65% versus 49% 
+ * For the 50 anomalies:  55% versus 22% 
+
+* Nonlinear SDF requires less factors. 
+ * For the 50 anomalies:  5 factors versus 15-20 factors
+
 
 ## Methodology
 
@@ -54,10 +68,4 @@ $\hat \lambda=arg \min_{\lambda}( \mu -\Sigma \lambda)'\Sigma^{-1}( \mu -\Sigma 
 
 <!--\gamma_1 \sum_{i=1}^{k} \mid \lambda_i \mid. or \gamma_1 \sum_{i=1}^{k} \lvert \lambda_i \rvert--> 
  
- 
-## Findings
-* The hybrid model requires less risk factors to achieve the highest out-of-sample performance compared to a model using only linear factors or a model projected into the raw characteristic returns. 
-* Weight shifting on some anomalies. The mimicking portfolios (MPs) and the linear factors disagree on the anomalies that are marginal in terms of weights
-* We believe that the nonlinear principal components have good prediction power. 
-* Thus, they should be taken into account for the development of future factor model.
 
