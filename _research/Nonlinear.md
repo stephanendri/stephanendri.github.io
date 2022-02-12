@@ -19,7 +19,7 @@ citation: 'Caio Almeida, René Garcia, Stéphane N Dri. (2021). &quot;Asset Pric
 ## Motivation
 
 * Look for a parsimonious stochastic discount factor (SDF);
-* Increasing number of factors explaining the cross-section (CS) (\color{blue}Factor zoo.\color{black})
+* Increasing number of factors explaining the cross-section (CS) (Factor zoo.)
 * Kozak et al. (2020) show the importance of rotating the SDF into a transformed space.
 * Prior literature: Rotate the SDF into the space of linear principal components (PCs);
 * This paper: Rotate the SDF into the space of nonlinear principal components;
